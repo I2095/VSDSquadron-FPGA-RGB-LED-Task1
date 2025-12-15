@@ -1,0 +1,8 @@
+# VSDSquadron FPGA Mini Pin Constraints
+# Board: VSDSquadron FPGA Mini
+
+set_io led_red    39   # RGB LED - Red
+set_io led_blue   40   # RGB LED - Blue
+set_io led_green  41   # RGB LED - Green
+set_io hw_clk     20   # External clock input
+set_io testwire   17   # Debug signal
